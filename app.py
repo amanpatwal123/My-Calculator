@@ -21,11 +21,11 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Aapke Exact Funny Dialogues
-funny_multiplication = ["Baap ka nokarr samja h"]
-funny_division = ["Randi ke bache khud krr le"]
+funny_multiplication = ["Naveen ka chusta lele"]
+funny_division = ["Randi ke bache khud krr le ya gand mrwa"]
 funny_subtraction = ["Kathu se gand marwata tha kya 10th mai"]
-funny_addition = ["Mc add bhi nhi krr para"]
-funny_errors = ["Ak kaam krr land chus mera", "Ulta paida hua tha kya"]
+funny_addition = ["Mc add bhi nhi krr para dimag mai gu bhara h kya"]
+funny_errors = ["Naveen ki nalayak santan"]
 
 # Dialogues convert for JavaScript Injection
 msg_mult = random.choice(funny_multiplication)
