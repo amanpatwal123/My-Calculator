@@ -81,27 +81,30 @@ if "prank_msg" not in st.session_state:
 
 # Funny Responses List
 funny_multiplication = [
+    "Abe dharti mai bhoj khud krr ise"
     "I don't Know 999 🤐",
     "do it yourself! 🤣"
-    "Abe dharti mai bhoj khud krr ise"
 ]
 
 funny_division = [
+    "Chulu bhar pani mai dub ke marr ja"
     "You are duffer! 🤦‍♂️",
     "Abe khud bhi krr le kuch! 😂"
-    "Chulu bhar pani mai dub ke marr ja"
+    
 ]
 
 funny_subtraction = [
+    "Gand mrwale itna ni ara to"
     "Kathu ko bulau? 👻",
     "Ya maths wale sir ko? 👨‍🏫"
-    "Gand mrwale itna ni ara to"
+    
 ]
 
 funny_addition = [
+    "Tu glt hi paida hua mc"
     "Abe Add krrna bhi nhi ara kya? 🤡",
     "Itna simple plus khud kar le bhai! 😜"
-    "Tu glt hi paida hua mc"
+    
 ]
 
 funny_errors = [
