@@ -95,7 +95,7 @@ if "btn" in query_params:
         funny_multiplication = ["Baap ka nokarr samjah", "I don't Know 999", "do it yourself!"]
         funny_division = ["Randi ke bache khud krr le", "You are duffer!", "Abe khud bhi krr le kuch!"]
         funny_subtraction = ["Kathu se gand marwata tha kya 10th mai", "Kathu ko bulau?", "Ya maths wale sir ko?"]
-        funny_addition = ["Mc add bhi nhi krr para', "Abe Add krrna bhi nhi ara kya?", "Itna simple plus khud kar le bhai!"]
+        funny_addition = ["Mc add bhi nhi krr para", "Abe Add krrna bhi nhi ara kya?", "Itna simple plus khud kar le bhai!"]
         funny_errors = ["Ak kaam krr land chus mera", "Abe ulta paida hua tha kya?", "Error 404: Calculator Is Busy!"]
         
         if "*" in expr:
