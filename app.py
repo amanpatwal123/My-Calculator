@@ -81,8 +81,8 @@ if "prank_msg" not in st.session_state:
 
 # Funny Responses List
 funny_multiplication = [
-    "Abe dharti mai bhoj khud krr ise"
-    "I don't Know 999 🤐",
+    "Abe dharti mai bhoj khud krr ise",
+    "I don't Know 999 🤐"
     "do it yourself! 🤣"
 ]
 
